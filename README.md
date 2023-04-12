@@ -15,3 +15,13 @@ This integration ensured that users could access accurate and helpful informatio
 # Guide 
 ## Application access
 Firstly you need to connect via the link of the application : https://app.powerbi.com/reportEmbed?reportId=3f7b2508-5d58-4cfd-bca9-6e3a4c167246&appId=dbda3973-13a5-4d4f-bff4-26d7839c35fa&autoAuth=true&ctid=d235b41c-5ee9-4c60-bcff-d68fe3bff6a0
+
+![Overview](./1.png)
+Then add credentials for getting access to the app : `aiinsight@windowslearning.codes`
+password : `Buhendwa@8`
+![Overview](./2.png)
+In this fist Overview, we have information about Power Apps application and information about HR recruitment process. This allows you to welcome the users. 
+![Metrics](./3.png)
+## Ask question
+Ask a question It is the Power Apps application, which is integrated into Power BI, this component It allows user to ask questions about HR recruitment process, this allows to get answers about frequent ask questions about HR recruitment quickly. The Apps use a smart search engine with Azure Cognitive search and combine with Power Automat, to automate the action between Power Apps and Azure Cognitive search.
+![Overview](./4.png)

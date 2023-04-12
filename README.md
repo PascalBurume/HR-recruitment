@@ -1,4 +1,14 @@
 # HR-recruitment
 Recruitment is a crucial process for any organization as its success can significantly impact the overall success of the business. Traditional recruitment methods can often be time-consuming and inefficient, leading to delayed hiring decisions and missed opportunities.
-With technological advancements, organizations can now organize their recruitment processes for increased efficiency, accuracy, and cost-effectiveness. 
-In our project, we explored how to create an HR recruitment process using Power BI for tracking recruitment KPIs, we use Power Apps to create a Frequent Ask Question about HR processes and we use Power Automate to automate the process. This integration will ensure that users get accurate and helpful information quickly and easily. 
+
+# Problem
+In today's highly competitive job market, effective recruitment is essential for organizations to attract and hire the best talent. The quality of hires can have a significant impact on the overall success and performance of the business. However, traditional recruitment methods, such as manually reviewing resumes and conducting in-person interviews, can be inefficient and time-consuming.
+These outdated recruitment techniques can lead to missed opportunities and delayed hiring decisions, which can harm an organization's competitiveness in the job market. Organizations that rely solely on these methods risk losing out on top candidates to competitors that are using more modern, efficient recruitment strategies. 
+To stay ahead of the competition and attract the best talent, organizations should consider adopting modern recruitment methods that leverage technology and data analytics. By doing so, they can streamline their recruitment processes and make better hiring decisions more quickly, leading to improved business outcomes and a more successful organization.
+To overcome these problems, we proposed our HR recruitment process project with Microsoft services and technologies.
+
+# Solution 
+Within  our project organizations can now leverage various tools and platforms to optimize their recruitment processes, improving efficiency, accuracy, and cost-effectiveness.
+Our project aimed to enhance the efficiency and effectiveness of the HR recruitment process through the use of Microsoft's Power Platform. To achieve this goal, we employed Power BI to track essential recruitment KPIs such as cost per hire, time to hire, and recruiter efficiency. Additionally, we created a Frequently Asked Questions resource using Power Apps to provide quick access to HR process-related information for HR managers and other users. Additionally, we utilized Power Automate to automate the task of requesting information from Azure Cognitive search and filling it into Power Apps to respond to queries.
+This integration ensured that users could access accurate and helpful information quickly and easily, ultimately leading to a more efficient and effective recruitment process.
+

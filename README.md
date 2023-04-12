@@ -28,13 +28,15 @@ Ask a question It is the Power Apps application, which is integrated into Power 
 
 Here we use `question answering`.
 Question answering provides cloud-based Natural Language Processing (NLP) that allows you to create a natural conversational layer over your data. It is used to find appropriate answers from customer input or from a project.
+
 ![Q/A](./8.png)
+## Power Automate
+We have used Power Automate to set up a workflow and connect to Power Apps with the question answering service. The workflow will include an HTTP request to send the user's  question to the prediction URL of the question answering service and get a matched answer back.
+
 ## Metrics
 Performance KPI, give a metric about HR recruitment process, such as Cost-per-hire which is the total cost associated with filling a job opening, including job postings, recruiter fees, background checks, and other expenses. Recruiter efficiency which is the number of qualified candidates sourced per recruiter and combine with average percentage of percentage pour candidates who rate the recruitment process positively, including factors such as communication, transparency, and fairness.
 ![Metrics](./5.png)
-We have used Power Automate to set up a workflow and connect to Power Apps with the question answering service. The workflow will include an HTTP request to send the user's 
-question to the prediction URL of the question answering service and get a matched 
-answer back.
+
 
 ## Quick summary 
 Quick summary, give an overview of different fields according to average and sum. This allow to reinforce the decisions based on visualization according to the observation of some metrics. 

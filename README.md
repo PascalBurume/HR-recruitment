@@ -32,3 +32,11 @@ Question answering provides cloud-based Natural Language Processing (NLP) that a
 ## Metrics
 Performance KPI, give a metric about HR recruitment process, such as Cost-per-hire which is the total cost associated with filling a job opening, including job postings, recruiter fees, background checks, and other expenses. Recruiter efficiency which is the number of qualified candidates sourced per recruiter and combine with average percentage of percentage pour candidates who rate the recruitment process positively, including factors such as communication, transparency, and fairness.
 ![Metrics](./5.png)
+
+## Quick summary 
+Quick summary, give an overview of different fields according to average and sum. This allow to reinforce the decisions based on visualization according to the observation of some metrics. 
+![Metrics](./6.png)
+
+## Question and Answear 
+`Question and answer`, this last report give a possibility to a user or HR manger, to ask questions and get an insight visual base on data sources, we have too a graphic which shows time-to-hire that refers to the average time it takes to fill a job opening, which includes the time from posting the job to when a candidate is offered and accepts the position or rejected.
+![Metrics](./7.png)

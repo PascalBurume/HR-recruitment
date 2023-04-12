@@ -33,6 +33,7 @@ Question answering provides cloud-based Natural Language Processing (NLP) that a
 ## Power Automate
 We have used Power Automate to set up a workflow and connect to Power Apps with the question answering service. The workflow will include an HTTP request to send the user's  question to the prediction URL of the question answering service and get a matched answer back.
 
+![Power Automate](./PA.png)
 ## Metrics
 Performance KPI, give a metric about HR recruitment process, such as Cost-per-hire which is the total cost associated with filling a job opening, including job postings, recruiter fees, background checks, and other expenses. Recruiter efficiency which is the number of qualified candidates sourced per recruiter and combine with average percentage of percentage pour candidates who rate the recruitment process positively, including factors such as communication, transparency, and fairness.
 ![Metrics](./5.png)

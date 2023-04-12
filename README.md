@@ -24,4 +24,7 @@ In this fist Overview, we have information about Power Apps application and info
 ![Metrics](./3.png)
 ## Ask question
 Ask a question It is the Power Apps application, which is integrated into Power BI, this component It allows user to ask questions about HR recruitment process, this allows to get answers about frequent ask questions about HR recruitment quickly. The Apps use a smart search engine with Azure Cognitive search and combine with Power Automat, to automate the action between Power Apps and Azure Cognitive search.
-![Overview](./4.png)
+![Overview](./ASK.png)
+
+Here we use `question answering`.
+Question answering provides cloud-based Natural Language Processing (NLP) that allows you to create a natural conversational layer over your data. It is used to find appropriate answers from customer input or from a project.

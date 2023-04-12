@@ -28,3 +28,4 @@ Ask a question It is the Power Apps application, which is integrated into Power 
 
 Here we use `question answering`.
 Question answering provides cloud-based Natural Language Processing (NLP) that allows you to create a natural conversational layer over your data. It is used to find appropriate answers from customer input or from a project.
+![Q/A](./8.png)

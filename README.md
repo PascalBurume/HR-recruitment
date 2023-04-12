@@ -40,3 +40,8 @@ Quick summary, give an overview of different fields according to average and sum
 ## Question and Answear 
 `Question and answer`, this last report give a possibility to a user or HR manger, to ask questions and get an insight visual base on data sources, we have too a graphic which shows time-to-hire that refers to the average time it takes to fill a job opening, which includes the time from posting the job to when a candidate is offered and accepts the position or rejected.
 ![Metrics](./7.png)
+# Conclusion 
+The use of technology has revolutionized various aspects of businesses, including HR recruitment processes. Microsoft's Power Platform provides an efficient and effective solution for optimizing recruitment processes, from tracking recruitment KPIs to automating information requests and providing easily accessible HR process-related information.
+By leveraging the capabilities of Power BI, Power Apps, and Power Automate, organizations can enhance the efficiency, accuracy, and cost-effectiveness of their recruitment processes, ultimately leading to better hiring decisions and greater organizational success.
+As technology continues to advance, it is essential for businesses to embrace and leverage new tools and platforms to stay ahead of the competition. The integration of Microsoft's Power Platform into HR recruitment processes is a prime example of how technology can significantly improve organizational productivity and success.
+

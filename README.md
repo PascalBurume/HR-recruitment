@@ -16,36 +16,36 @@ This integration ensured that users could access accurate and helpful informatio
 ## Application access
 Firstly you need to connect via the link of the application : https://app.powerbi.com/reportEmbed?reportId=3f7b2508-5d58-4cfd-bca9-6e3a4c167246&appId=dbda3973-13a5-4d4f-bff4-26d7839c35fa&autoAuth=true&ctid=d235b41c-5ee9-4c60-bcff-d68fe3bff6a0
 
-![Overview](./1.png)
+![Overview](img/1.png)
 Then add credentials for getting access to the app : `aiinsight@windowslearning.codes`
 password : `Buhendwa@8`
-![Overview](./2.png)
+![Overview](img/2.png)
 In this fist Overview, we have information about Power Apps application and information about HR recruitment process. This allows you to welcome the users. 
-![Metrics](./3.png)
+![Metrics](img/3.png)
 ## Ask question
 Ask a question It is the Power Apps application, which is integrated into Power BI, this component It allows user to ask questions about HR recruitment process, this allows to get answers about frequent ask questions about HR recruitment quickly. The Apps use a smart search engine with Azure Cognitive search and combine with Power Automat, to automate the action between Power Apps and Azure Cognitive search.
-![Overview](./ASK.png)
+![Overview](img/ASK.png)
 
 Here we use `question answering`.
 Question answering provides cloud-based Natural Language Processing (NLP) that allows you to create a natural conversational layer over your data. It is used to find appropriate answers from customer input or from a project.
 
-![Q/A](./8.png)
+![Q/A](img/8.png)
 ## Power Automate
 We have used Power Automate to set up a workflow and connect to Power Apps with the question answering service. The workflow will include an HTTP request to send the user's  question to the prediction URL of the question answering service and get a matched answer back.
 
-![Power Automate](./PA.png)
+![Power Automate](img/PA.png)
 ## Metrics
 Performance KPI, give a metric about HR recruitment process, such as Cost-per-hire which is the total cost associated with filling a job opening, including job postings, recruiter fees, background checks, and other expenses. Recruiter efficiency which is the number of qualified candidates sourced per recruiter and combine with average percentage of percentage pour candidates who rate the recruitment process positively, including factors such as communication, transparency, and fairness.
-![Metrics](./5.png)
+![Metrics](img/5.png)
 
 
 ## Quick summary 
 Quick summary, give an overview of different fields according to average and sum. This allow to reinforce the decisions based on visualization according to the observation of some metrics. 
-![Metrics](./6.png)
+![Metrics](img/6.png)
 
 ## Question and Answear 
 `Question and answer`, this last report give a possibility to a user or HR manger, to ask questions and get an insight visual base on data sources, we have too a graphic which shows time-to-hire that refers to the average time it takes to fill a job opening, which includes the time from posting the job to when a candidate is offered and accepts the position or rejected.
-![Metrics](./7.png)
+![Metrics](img/7.png)
 # Conclusion 
 The use of technology has revolutionized various aspects of businesses, including HR recruitment processes. Microsoft's Power Platform provides an efficient and effective solution for optimizing recruitment processes, from tracking recruitment KPIs to automating information requests and providing easily accessible HR process-related information.
 By leveraging the capabilities of Power BI, Power Apps, and Power Automate, organizations can enhance the efficiency, accuracy, and cost-effectiveness of their recruitment processes, ultimately leading to better hiring decisions and greater organizational success.

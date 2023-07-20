@@ -1,4 +1,4 @@
-# HR-recruitment
+# HR-recruitment.
 Recruitment is a crucial process for any organization as its success can significantly impact the overall success of the business. Traditional recruitment methods can often be time-consuming and inefficient, leading to delayed hiring decisions and missed opportunities.
 
 # Problem
